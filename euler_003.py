@@ -1,8 +1,6 @@
 import datetime
 from time import time
 from math import sqrt; from itertools import count, islice
-
-
 #total time is: 6.934788227081299 sec.
 
 
